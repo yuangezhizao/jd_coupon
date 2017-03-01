@@ -47,3 +47,8 @@ https://coupon.m.jd.com/coupons/show.action?key=c6644cdc91314136b7c3eb9796d89935
 https://coupon.m.jd.com/coupons/show.action?key=a5a9c5ceeaad4e899f22eb0688089723&roleId=5622035
 美妆 618-300
 https://coupon.m.jd.com/coupons/show.action?key=02e43c0257c04f7eaa8729b011f57782&roleId=5621999
+
+10:00 话费 90-50 金牌
+http://coupon.m.jd.com/coupons/show.action?key=8fc161c1bb11459593fe826952bf72ec&roleId=5617718
+10:00 话费 90-50
+https://coupon.m.jd.com/coupons/show.action?key=a06f7b81096f4739acf8422a9f8016b7&roleId=5598440
