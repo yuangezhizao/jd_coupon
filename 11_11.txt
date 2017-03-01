@@ -52,3 +52,5 @@ https://coupon.m.jd.com/coupons/show.action?key=02e43c0257c04f7eaa8729b011f57782
 http://coupon.m.jd.com/coupons/show.action?key=8fc161c1bb11459593fe826952bf72ec&roleId=5617718
 10:00 话费 90-50
 https://coupon.m.jd.com/coupons/show.action?key=a06f7b81096f4739acf8422a9f8016b7&roleId=5598440
+10:00 牛奶 199-150
+https://coupon.m.jd.com/coupons/show.action?key=f39fc52887a34481bacf1dfa24798cbf&roleId=5590039
