@@ -162,4 +162,7 @@ https://coupon.m.jd.com/coupons/show.action?key=1f58f6b900ac4b21a3bd8ff4bba0dce1
 https://coupon.m.jd.com/coupons/show.action?key=eae9b8b038824470a204f8f0becfed7b&roleId=6901001
 
 家纺 199-180
-http://coupon.m.jd.com/coupons/show.action?key=6bee85361b694bf9861628ced8c1e78d&roleId=6823830
+https://coupon.m.jd.com/coupons/show.action?key=6bee85361b694bf9861628ced8c1e78d&roleId=6823830
+
+建材 199-188
+https://coupon.m.jd.com/coupons/show.action?key=04d0627468254b25a9d0b07dd8d7e72d&roleId=6885851
