@@ -115,7 +115,7 @@ https://coupon.m.jd.com/coupons/show.action?key=023510d12dfe458c8163d01a82731be0
 https://coupon.m.jd.com/coupons/show.action?key=8c6cf97855584df38963ac0940ff16c2&roleId=6909569
 
 10:00 超市198-100 
-https://coupon.m.jd.com/coupons/show.action?key=787e2ff27dc146c0a758bbcd4dbe281c&roleId=6947992
+https://coupon.m.jd.com/coupons/show.action?key=8ac0db8bf5224b3caad26e7241aa4ade&roleId=6966565
 
 生活电器 49-48
 https://coupon.m.jd.com/coupons/show.action?key=f5c0c3a67820469caaa99181002e2da6&roleId=6909659
@@ -145,3 +145,6 @@ https://coupon.m.jd.com/coupons/show.action?key=db3d3a05911b469b8d0c947202804a91
 
 酒类 199-100
 https://coupon.m.jd.com/coupons/show.action?key=6cb866933443475a85d41f42be4fb023&roleId=6785149
+
+11:00 酒类 188-100
+https://coupon.m.jd.com/coupons/show.action?key=ead0a19c5b6b4c3b8ac6bcbad1242028&roleId=6918917
