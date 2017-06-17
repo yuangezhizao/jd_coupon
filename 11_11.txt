@@ -212,3 +212,9 @@ https://coupon.m.jd.com/coupons/show.action?key=8489c963099b44629ed088f064279b50
 https://coupon.m.jd.com/coupons/show.action?key=811bdfcef3594f51bf33278be2b96bfd&roleId=6728717
 09:00 油卡 1000-618
 https://coupon.m.jd.com/coupons/show.action?key=21b6e03cdef0462bae2ce1c2a7554a93&roleId=6889428
+
+00/10/14/20/22：00 服装 618-500
+https://coupon.m.jd.com/coupons/show.action?key=cd5b21c57ccd4cb0b19a2b0c3402943f&roleId=7021161
+
+00:00 清洁 219-199
+https://coupon.m.jd.com/coupons/show.action?key=1f66541995344b2b93ce5c7c31db9b0b&roleId=6558558
