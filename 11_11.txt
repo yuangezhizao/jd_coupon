@@ -228,3 +228,5 @@ https://coupon.m.jd.com/coupons/show.action?key=2a43d851d901490f808ac25c098af992
 https://coupon.m.jd.com/coupons/show.action?key=2bfc8ee053de47d78f64cb027b009e31&roleId=6998514
 背背佳
 https://coupon.m.jd.com/coupons/show.action?key=718dd2c75b0e4ff4a793a3ca593af8c5&roleId=6955690
+温度计
+https://coupon.m.jd.com/coupons/show.action?key=48b880bd610c46b7908ef53fdd9788ed&roleId=6964649
