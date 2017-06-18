@@ -230,3 +230,11 @@ https://coupon.m.jd.com/coupons/show.action?key=2bfc8ee053de47d78f64cb027b009e31
 https://coupon.m.jd.com/coupons/show.action?key=718dd2c75b0e4ff4a793a3ca593af8c5&roleId=6955690
 温度计
 https://coupon.m.jd.com/coupons/show.action?key=48b880bd610c46b7908ef53fdd9788ed&roleId=6964649
+血压计
+https://coupon.m.jd.com/coupons/show.action?key=444ce9119f0644cd897c60eb5bd581f7&roleId=7017444
+
+酒水 618-500
+https://coupon.m.jd.com/coupons/show.action?key=00a1bc8e974c4e34bc128315ec438943&roleId=7053516
+
+
+https://coupon.m.jd.com/coupons/show.action?key=00a1bc8e974c4e34bc128315ec438943&roleId=7053516
