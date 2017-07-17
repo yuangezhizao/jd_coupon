@@ -248,7 +248,7 @@ https://coupon.m.jd.com/coupons/show.action?key=fb5b9be091674b39a5142eddf16620a8
 https://coupon.m.jd.com/coupons/show.action?key=71a1f1b050274b7ab41509be82cc738d&roleId=7143020
 
 话费 90-50
-https://coupon.m.jd.com/coupons/show.action?key=5ea339a180364460918812ce949e764f&roleId=7248730
+http://coupon.m.jd.com/coupons/show.action?key=dd4d4f3a803b44c5973a336809efe573&roleId=7316432
 
 879
 https://coupon.m.jd.com/coupons/show.action?key=8ccbd99ef88b4f248434d5ff781d0e1d&roleId=7088596
@@ -275,3 +275,20 @@ https://coupon.m.jd.com/coupons/show.action?key=1bda32aad40b4b849815e0f375255a3b
 https://coupon.m.jd.com/coupons/show.action?key=68a41fd48d9544e9b47d26bf0ae5356d&roleId=7332024
 6000-500
 https://coupon.m.jd.com/coupons/show.action?key=6a438603fdaa40e7bd7df5ddd8d749b9&roleId=7332038
+
+啤酒 188-100
+https://coupon.m.jd.com/coupons/show.action?key=24dd194c47aa4922ae38bc4293f79d17&roleId=7330614
+
+心相印 99-90
+https://coupon.m.jd.com/coupons/show.action?key=ddb7c6bb61a64f67babae6d0f12b4373&roleId=7334775
+
+车品 99-70
+https://coupon.m.jd.com/coupons/show.action?key=ef6b26a2c97c463a8fd94ac7f2593e59&roleId=7327807
+
+18:00 智能 100-50
+https://coupon.m.jd.com/coupons/show.action?key=828235bf6f1d42029e9712d3274a1a15&roleId=7414604
+20:00
+https://coupon.m.jd.com/coupons/show.action?key=1bf69a1a1add48d8bbf2186186dc00bd&roleId=7414644
+
+10:00 智能 199-190
+https://coupon.m.jd.com/coupons/show.action?key=2a150a5adccf434c807bbe4385c372b5&roleId=7419085

@@ -31,16 +31,16 @@ function getDelay(browser)
     switch(browser)
     {
         case "Chrome":
-            d = 0.85;
+            d = 0.88;
         break;
         case "Safari":
             d = 0.90;
-        break;
+        break; 
         case "Opera":
-            d = 0.90;
+            d = 0.88;
         break;
         case "Firefox":
-            d = 0.95;
+            d = 0.90;
         break;
         default:
             d = 0.60;
