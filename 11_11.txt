@@ -340,5 +340,8 @@ https://coupon.m.jd.com/coupons/show.action?key=6d0bb63014394e49be0e6d50395a0525
 9月1日 00:00 美妆 198-100
 https://coupon.m.jd.com/coupons/show.action?key=2e35c03d86484f7e8f97df00ac5f071b&roleId=7918761
 
+清洁 199-100
+https://coupon.m.jd.com/coupons/show.action?key=59ec1f715b9345c5943525c7f9ea127c&roleId=7895179
+
 499-100
 https://mk.jd.com/marketing/jd/takeprize/index?entranceId=HBlEcSpD6AUCt4
