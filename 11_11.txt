@@ -330,3 +330,12 @@ https://coupon.m.jd.com/coupons/show.action?key=8a46db0293cb45578a93b47e74cf3e8d
 
 美妆 199-149
 https://coupon.m.jd.com/coupons/show.action?key=7a6077db068e4306b9bbc46069408662&roleId=7948233
+
+199-188
+https://coupon.m.jd.com/coupons/show.action?key=3bcd731974514dcd929b56ec873df8d1&roleId=7918723
+
+超市 198-100
+https://coupon.m.jd.com/coupons/show.action?key=6d0bb63014394e49be0e6d50395a0525&roleId=7918732
+
+499-100
+https://mk.jd.com/marketing/jd/takeprize/index?entranceId=HBlEcSpD6AUCt4
