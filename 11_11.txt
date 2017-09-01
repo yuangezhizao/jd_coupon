@@ -346,5 +346,8 @@ https://coupon.m.jd.com/coupons/show.action?key=59ec1f715b9345c5943525c7f9ea127c
 食用油 188-99
 http://coupon.m.jd.com/coupons/show.action?key=c6b47acf1c9f4a089383a89af103a661&roleId=7988576
 
+奶粉 398-100
+http://coupon.m.jd.com/coupons/show.action?key=5f2e4058cae040cc8a7df42bb53bdb59&roleId=7918765
+
 499-100
 https://mk.jd.com/marketing/jd/takeprize/index?entranceId=HBlEcSpD6AUCt4
