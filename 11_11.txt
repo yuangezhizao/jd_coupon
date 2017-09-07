@@ -347,7 +347,16 @@ https://coupon.m.jd.com/coupons/show.action?key=59ec1f715b9345c5943525c7f9ea127c
 http://coupon.m.jd.com/coupons/show.action?key=c6b47acf1c9f4a089383a89af103a661&roleId=7988576
 
 奶粉 398-100
-http://coupon.m.jd.com/coupons/show.action?key=5f2e4058cae040cc8a7df42bb53bdb59&roleId=7918765
+https://coupon.m.jd.com/coupons/show.action?key=5f2e4058cae040cc8a7df42bb53bdb59&roleId=7918765
+
+白酒 12/16:00 999-400
+https://coupon.m.jd.com/coupons/show.action?key=4316f93db2b2441291f29329f9b25a7c&roleId=7967123
+
+惠氏 08:00 299-100
+https://coupon.m.jd.com/coupons/show.action?key=a376d4ac7ac0482bb41a68cf651f3978&roleId=7908472
+
+时尚 99-90
+https://coupon.m.jd.com/coupons/show.action?key=9d60e488da9f471983155523637ebce1&roleId=8042940
 
 499-100
 https://mk.jd.com/marketing/jd/takeprize/index?entranceId=HBlEcSpD6AUCt4
