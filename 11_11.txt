@@ -358,5 +358,23 @@ https://coupon.m.jd.com/coupons/show.action?key=a376d4ac7ac0482bb41a68cf651f3978
 时尚 99-90
 https://coupon.m.jd.com/coupons/show.action?key=9d60e488da9f471983155523637ebce1&roleId=8042940
 
+超市 198-100
+https://coupon.m.jd.com/coupons/show.action?key=71fbe6697f8547cca2eaf8b16cc3ab55&roleId=8087395
+
+https://coupon.m.jd.com/coupons/show.action?key=9159798d81214f318147c663eda2bccd&roleId=8098473
+
+3000-911
+http://coupon.m.jd.com/coupons/show.action?key=79afc7dc9a994599bcebd8ad2513fe49&roleId=8015937
+
+00:00  plus 149-130
+https://coupon.m.jd.com/coupons/show.action?key=e27b3ca3cc9e4a92811d3ef66401dee3&roleId=8145387
+
+10:00 牛奶 199-150
+https://coupon.m.jd.com/coupons/show.action?key=b9ec44e5569b403b83f9103170b45f5a&roleId=7989929
+
+OTC 199-99
+https://coupon.m.jd.com/coupons/show.action?key=87b1501a41534d5c9e4bb4104218322a&roleId=7907978
+https://coupon.m.jd.com/coupons/show.action?key=64c739f1f5d24da6b5f02776a9e28374&roleId=7907880
+
 499-100
 https://mk.jd.com/marketing/jd/takeprize/index?entranceId=HBlEcSpD6AUCt4
