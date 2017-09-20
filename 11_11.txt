@@ -376,5 +376,7 @@ OTC 199-99
 https://coupon.m.jd.com/coupons/show.action?key=87b1501a41534d5c9e4bb4104218322a&roleId=7907978
 https://coupon.m.jd.com/coupons/show.action?key=64c739f1f5d24da6b5f02776a9e28374&roleId=7907880
 
+00/10/16/20:00 月饼 199-150
+https://coupon.m.jd.com/coupons/show.action?key=9058012ba710454dbf0c44f021b1b881&roleId=7972852
 499-100
 https://mk.jd.com/marketing/jd/takeprize/index?entranceId=HBlEcSpD6AUCt4
