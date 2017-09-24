@@ -378,5 +378,10 @@ https://coupon.m.jd.com/coupons/show.action?key=64c739f1f5d24da6b5f02776a9e28374
 
 00/10/16/20:00 月饼 199-150
 https://coupon.m.jd.com/coupons/show.action?key=9058012ba710454dbf0c44f021b1b881&roleId=7972852
+
+1000-150
+https://coupon.m.jd.com/coupons/show.action?key=df36a65a5ad041b0849f10798886001b&roleId=8160941
+https://coupon.m.jd.com/coupons/show.action?key=63b4f8c578e54fc1b4cc08d6179478f5&roleId=8160907
+
 499-100
 https://mk.jd.com/marketing/jd/takeprize/index?entranceId=HBlEcSpD6AUCt4
