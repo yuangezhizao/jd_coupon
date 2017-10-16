@@ -406,5 +406,8 @@ https://coupon.m.jd.com/coupons/show.action?key=c232f3e49f0d4df7991bc58e2a9be875
 百雀羚 55-50
 https://coupon.m.jd.com/coupons/show.action?key=7bd9190ee19d4561ae7db4e49854896a&roleId=8414217
 
+男装 600-300
+https://coupon.m.jd.com/coupons/show.action?key=01c8d88792ca4ab2aaed8a65795a1768&roleId=8554538
+
 499-100
 https://mk.jd.com/marketing/jd/takeprize/index?entranceId=HBlEcSpD6AUCt4
