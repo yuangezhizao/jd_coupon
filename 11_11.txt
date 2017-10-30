@@ -429,3 +429,10 @@ https://coupon.m.jd.com/coupons/show.action?key=2ddf0d6dd4d64d77b4e961ca746e1b0e
 https://coupon.m.jd.com/coupons/show.action?key=e91bb92aa68a496b86c332f3038e4283&roleId=8735011
 https://coupon.m.jd.com/coupons/show.action?key=c9c9e468aaaa4670927c7b32873953f3&roleId=8735011
 https://coupon.m.jd.com/coupons/show.action?key=2ddf0d6dd4d64d77b4e961ca746e1b0e&roleId=8735011
+
+Plus 图书 200-80
+https://coupon.m.jd.com/coupons/show.action?key=db2e91e029984d0c832764363af9396c&roleId=8620911
+150-50
+https://coupon.m.jd.com/coupons/show.action?key=8deb5a32c05c41e9809af9271398c0b4&roleId=8620952
+300-100
+https://coupon.m.jd.com/coupons/show.action?key=4a8e6973e4ea49839e6b245c7d3de835&roleId=8620957
