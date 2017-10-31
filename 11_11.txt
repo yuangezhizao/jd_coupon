@@ -436,3 +436,6 @@ https://coupon.m.jd.com/coupons/show.action?key=db2e91e029984d0c832764363af9396c
 https://coupon.m.jd.com/coupons/show.action?key=8deb5a32c05c41e9809af9271398c0b4&roleId=8620952
 300-100
 https://coupon.m.jd.com/coupons/show.action?key=4a8e6973e4ea49839e6b245c7d3de835&roleId=8620957
+
+音箱 250京券
+https://coupon.m.jd.com/coupons/show.action?key=d93ee89bf4ff4db3bc4ed5e4f4d3b1d6&roleId=8772885
