@@ -447,3 +447,8 @@ https://coupon.m.jd.com/coupons/show.action?key=eb1c7464f30f47db88384fe12cef0a9c
 https://coupon.m.jd.com/coupons/show.action?key=e0997bcc7afc49909f3e2480fb91a08b&roleId=8812504
 超市 198-100
 https://coupon.m.jd.com/coupons/show.action?key=729b8dd4313e4ef2ace46ed4388f56bd&roleId=8868714
+服饰 113-100
+https://coupon.m.jd.com/coupons/show.action?key=ebbf381a37944e3f92ede837445d7172&roleId=8754258
+个护
+https://coupon.m.jd.com/coupons/show.action?key=65408a0ddfd74eacbae517c31e191e91&roleId=8725700
+
