@@ -1,4 +1,4 @@
-var delay = getDelay(myBrowser());//提交时间（到点前或到点后多少秒领取，提前为负值，单位秒，默认0.01秒后）
+var delay = getDelay(myBrowser());//提交时间（到点前或到点后多少秒领取，提前为负值，单位毫秒，默认0秒后）
 
 var count = 0;
 var interval = 10;
@@ -31,16 +31,19 @@ function getDelay(browser)
     switch(browser)
     {
         case "Chrome":
-            d = 0.85;
+            d = 0.89;
         break;
         case "Safari":
-            d = 0.90;
+            d = 0.93;
         break; 
         case "Opera":
-            d = 0.88;
+            d = 0.89;
         break;
         case "Firefox":
-            d = 0.87;
+            d = 0.91;
+        break;
+        case "Edge":
+            d = 0.91;
         break;
         default:
             d = 0.60;
@@ -58,9 +61,12 @@ function myBrowser(){
     if (userAgent.indexOf("Firefox") > -1) {
         return "Firefox";
     } //判断是否Firefox浏览器
-    if (userAgent.indexOf("Chrome") > -1){
-  return "Chrome";
- }
+    if (userAgent.indexOf("Edge") > -1) {
+        return "Edge";
+    } //判断是否Edge浏览器
+    if (userAgent.indexOf("Chrome") > -1) {
+        return "Chrome";
+    }
     if (userAgent.indexOf("Safari") > -1) {
         return "Safari";
     } //判断是否Safari浏览器
