@@ -468,3 +468,5 @@ http://coupon.m.jd.com/coupons/show.action?key=6eb76c95dc65401b95e4aa588642d2b7&
 https://coupon.m.jd.com/coupons/show.action?key=b02b81c8547b4d178b3b4df186cbd4e1&roleId=8927938
 10:00 话费 99-50 
 https://coupon.m.jd.com/coupons/show.action?key=6cba5848a4014f1ea7f3c6af91bd87b3&roleId=8743584
+00/08/10/14/20:00 母婴 299-100
+https://coupon.m.jd.com/coupons/show.action?key=5ef849f4c66145de9e0c9d3050419dda&roleId=8972533
