@@ -21,7 +21,10 @@ else if(hms == '00:00:00')
 }
 else
 {
-    kaishi = now.getFullYear() + '/' + (now.getMonth() + 1) + '/' + now.getDate() + ' ' + (now.getHours()+1) + ':00:00';
+    if(now.getHours() == 23)
+        kaishi = now.getFullYear() + '/' + (now.getMonth() + 1) + '/' + (now.getDate()+1) + ' ' + '00:00:00';
+    else
+        kaishi = now.getFullYear() + '/' + (now.getMonth() + 1) + '/' + now.getDate() + ' ' + (now.getHours()+1) + ':00:00';
 }
 
 function getDelay(browser)
@@ -31,16 +34,16 @@ function getDelay(browser)
     switch(browser)
     {
         case "Chrome":
-            d = 0.89;
+            d = 0.90;
         break;
         case "Safari":
-            d = 0.93;
+            d = 0.91;
         break; 
         case "Opera":
-            d = 0.89;
+            d = 0.93;
         break;
         case "Firefox":
-            d = 0.91;
+            d = 0.95;
         break;
         case "Edge":
             d = 0.91;
