@@ -34,16 +34,16 @@ function getDelay(browser)
     switch(browser)
     {
         case "Chrome":
-            d = 0.90;
+            d = 0.88;
         break;
         case "Safari":
-            d = 0.91;
+            d = 0.89;
         break; 
         case "Opera":
-            d = 0.93;
+            d = 0.91;
         break;
         case "Firefox":
-            d = 0.95;
+            d = 0.92;
         break;
         case "Edge":
             d = 0.91;
@@ -115,6 +115,8 @@ function tijiao() {
                     submitForm();
                 else if(host == "jcode.jd.com")
                     obtainJcodeForM();
+                else if(host == "p.m.jd.com")
+                    btnPayOnLine.click();
                 
                 clearInterval(intvl);
                 console.log('%c领取结束!', consolecss)
