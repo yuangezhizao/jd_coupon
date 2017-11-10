@@ -1,6 +1,9 @@
 //添加购物车
 https://cart.jd.com/gate.action?pid=1411676813&pcount=1&ptype=1
 
+//直接购买
+https://p.m.jd.com/norder/order.action?wareId=4445191&wareNum=1&enterOrder=true
+
 //优惠券
 http://coupon.m.jd.com/coupons/show.action?
 https://coupon.jd.com/ilink/couponSendFront/send_index.action?key=e30c7e61ae7d4fe79ca77d32b860a730&roleId=2453339&to=sale.jd.com/act/qxu3m0i7xt.html&cpdad=1DLSUE
