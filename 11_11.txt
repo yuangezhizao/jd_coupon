@@ -457,6 +457,7 @@ https://coupon.m.jd.com/coupons/show.action?key=66ab3083d1bf485eb732d9d62953b8ef
 https://coupon.m.jd.com/coupons/show.action?key=c950e423d6724cf195bea9540572d05e&roleId=8739327
 00/10/14/20/22:00 5折券
 https://coupon.m.jd.com/coupons/show.action?key=3ce22bbf278e4320bfa490f64513f82c&roleId=8824030
+https://coupon.m.jd.com/coupons/show.action?key=f995dd806c77448bac44d3c5f17b2810&roleId=9050998
 299-40
 https://coupon.m.jd.com/coupons/show.action?key=b4d316e2f05c4770810d35a7552ff530&roleId=8826128
 10:00 苹果 1000-500
