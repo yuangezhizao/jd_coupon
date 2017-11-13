@@ -1,3 +1,4 @@
+var host = window.location.host;
 var delay = getDelay(myBrowser());//提交时间（到点前或到点后多少秒领取，提前为负值，单位毫秒，默认0秒后）
 
 var count = 0;
@@ -29,28 +30,55 @@ else
 
 function getDelay(browser)
 {
-    var d;
+    var d = 0.0;
 
-    switch(browser)
+    if(host == "coupon.m.jd.com")
     {
-        case "Chrome":
-            d = 0.88;
-        break;
-        case "Safari":
-            d = 0.89;
-        break; 
-        case "Opera":
-            d = 0.91;
-        break;
-        case "Firefox":
-            d = 0.92;
-        break;
-        case "Edge":
-            d = 0.91;
-        break;
-        default:
-            d = 0.60;
-        break;
+        switch(browser)
+        {
+            case "Chrome":
+                d = 0.90;
+            break;
+            case "Safari":
+                d = 0.91;
+            break; 
+            case "Opera":
+                d = 0.90;
+            break;
+            case "Firefox":
+                d = 0.90;
+            break;
+            case "Edge":
+                d = 0.91;
+            break;
+            default:
+                d = 0.60;
+            break;
+        }
+    }
+    else if(host == "p.m.jd.com")
+    {
+        switch(browser)
+        {
+            case "Chrome":
+                d = 0.43;
+            break;
+            case "Safari":
+                d = 0.45;
+            break; 
+            case "Opera":
+                d = 0.42;
+            break;
+            case "Firefox":
+                d = 0.43;
+            break;
+            case "Edge":
+                d = 0.43;
+            break;
+            default:
+                d = 0.45;
+            break;
+        }
     }
     return d;
 }
@@ -117,7 +145,7 @@ function tijiao() {
                     obtainJcodeForM();
                 else if(host == "p.m.jd.com")
                     btnPayOnLine.click();
-                
+
                 clearInterval(intvl);
                 console.log('%c领取结束!', consolecss)
            // }
