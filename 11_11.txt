@@ -484,3 +484,8 @@ https://coupon.m.jd.com/coupons/show.action?key=f22825db960e40bf83a030da70096236
 https://coupon.m.jd.com/coupons/show.action?key=3f9206b499e04648a2e4071daaf5eec4&roleId=8746507
 10:00 话费 90-50
 https://coupon.m.jd.com/coupons/show.action?key=3f2529ba21fa43efa0a44c8371bc9ece&roleId=8743637
+
+美赞臣 102-101
+https://coupon.m.jd.com/coupons/show.action?key=9375d251e10a424b944dfa028d785de1&roleId=9313592
+御泥坊 79-78
+https://coupon.m.jd.com/coupons/show.action?key=f19d5a98231c4c8e88bb425b00ecbc81&roleId=9268514
