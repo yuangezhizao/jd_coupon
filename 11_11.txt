@@ -489,3 +489,6 @@ https://coupon.m.jd.com/coupons/show.action?key=3f2529ba21fa43efa0a44c8371bc9ece
 https://coupon.m.jd.com/coupons/show.action?key=9375d251e10a424b944dfa028d785de1&roleId=9313592
 御泥坊 79-78
 https://coupon.m.jd.com/coupons/show.action?key=f19d5a98231c4c8e88bb425b00ecbc81&roleId=9268514
+
+00:00 旺旺 199-186
+http://coupon.m.jd.com/coupons/show.action?key=08811637944c466789cbd5a6ebbf223f&roleId=9426154
