@@ -491,4 +491,11 @@ https://coupon.m.jd.com/coupons/show.action?key=9375d251e10a424b944dfa028d785de1
 https://coupon.m.jd.com/coupons/show.action?key=f19d5a98231c4c8e88bb425b00ecbc81&roleId=9268514
 
 00:00 旺旺 199-186
-http://coupon.m.jd.com/coupons/show.action?key=08811637944c466789cbd5a6ebbf223f&roleId=9426154
+https://coupon.m.jd.com/coupons/show.action?key=08811637944c466789cbd5a6ebbf223f&roleId=9426154
+
+海飞丝 70-69
+https://coupon.m.jd.com/coupons/show.action?key=4b7a2ad375884c8b9fd23d987b808423&roleId=9742480
+飘柔 60-59
+https://coupon.m.jd.com/coupons/show.action?key=04884cbb6dbe4a91a24a3cc264785bf0&roleId=9742460
+潘婷 50-49
+https://coupon.m.jd.com/coupons/show.action?key=9314dac6cbac4242b76e37c9046a51cc&roleId=9742442
