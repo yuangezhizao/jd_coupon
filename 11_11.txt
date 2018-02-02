@@ -539,3 +539,6 @@ https://coupon.m.jd.com/coupons/show.action?key=0b3fc1b530be4601aceb9c89bfb4c6c9
 https://coupon.m.jd.com/coupons/show.action?key=0b9f55b821f546cb985a090fb2ecdb04&roleId=10163263
 18:00 十八子作 497
 https://coupon.m.jd.com/coupons/show.action?key=b69de7b411394b33a15c69c2bdf40d6d&roleId=10171087
+
+10:00 华为 1000-500
+https://coupon.m.jd.com/coupons/show.action?key=28d0cbfe9d794cb19f9e9250ca474963&roleId=10233730
