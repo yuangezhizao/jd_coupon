@@ -546,3 +546,5 @@ https://coupon.m.jd.com/coupons/show.action?key=28d0cbfe9d794cb19f9e9250ca474963
 https://coupon.m.jd.com/coupons/show.action?key=8aee32090ff54eac9f3680b86618af09&roleId=10125369
 10:00 叮咚 200京券
 https://coupon.m.jd.com/coupons/show.action?key=e87385410adb4774a3d6c8acfe001c4e&roleId=10445569
+00/10/12/14/20:00 美赞臣 103-102
+https://coupon.m.jd.com/coupons/show.action?key=a9ab4e189fd946bbb503b3a794f6aacb&roleId=10391466
