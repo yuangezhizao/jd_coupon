@@ -548,3 +548,5 @@ https://coupon.m.jd.com/coupons/show.action?key=8aee32090ff54eac9f3680b86618af09
 https://coupon.m.jd.com/coupons/show.action?key=e87385410adb4774a3d6c8acfe001c4e&roleId=10445569
 00/10/12/14/20:00 美赞臣 103-102
 https://coupon.m.jd.com/coupons/show.action?key=a9ab4e189fd946bbb503b3a794f6aacb&roleId=10391466
+00/10/12/14/20:00 金龙鱼 101-100
+http://coupon.m.jd.com/coupons/show.action?key=1b25cafa4a294adba86f63973c3b1d89&roleId=10422753
