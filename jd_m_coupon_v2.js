@@ -3,7 +3,10 @@ var delay = getDelay(myBrowser());//提交时间（到点前或到点后多少�
 
 var count = 0;
 var interval = 10;
-var intvl = setInterval(tijiao, interval);
+var intvl = setInterval(countdown, interval);
+var subInterval = 100;
+var submitCount = 0;
+var submitInterval;
 var consolecss = 'color:red;font-weight:bold;font-size:12px';
 var host = window.location.host;
 
@@ -37,16 +40,16 @@ function getDelay(browser)
         switch(browser)
         {
             case "Chrome":
-                d = 0.90;
+                d = 0.91;
             break;
             case "Safari":
-                d = 0.91;
+                d = 0.89;
             break; 
             case "Opera":
-                d = 0.90;
+                d = 0.93;
             break;
             case "Firefox":
-                d = 0.90;
+                d = 0.92;
             break;
             case "Edge":
                 d = 0.91;
@@ -61,22 +64,22 @@ function getDelay(browser)
         switch(browser)
         {
             case "Chrome":
-                d = 0.43;
+                d = 0.57;
             break;
             case "Safari":
-                d = 0.45;
+                d = 0.70;
             break; 
             case "Opera":
                 d = 0.42;
             break;
             case "Firefox":
-                d = 0.43;
+                d = 0.60;
             break;
             case "Edge":
-                d = 0.43;
+                d = 0.70;
             break;
             default:
-                d = 0.45;
+                d = 0.65;
             break;
         }
     }
@@ -129,7 +132,7 @@ function timer_format(s) {
     return t
 }
 
-function tijiao() {
+function countdown() {
     var nowTime = new Date((new Date()).setTime(new Date().getTime() + deviation));
     var diff = nowTime - new Date(kaishi);
     var kk = parseInt((1000 * delay - diff) / 1000);
@@ -139,17 +142,25 @@ function tijiao() {
             //console.log('%c今日优惠券领取已经开始' + timer_format(Math.abs(kk)) + '，赶快输入验证码领取吧！', consolecss);
            // var code = $("#validateCode").val();
            // if (code.length >= 4) {
-                if(host == "coupon.m.jd.com")
-                    submitForm();
-                else if(host == "jcode.jd.com")
-                    obtainJcodeForM();
-                else if(host == "p.m.jd.com")
-                    btnPayOnLine.click();
-
+                submitInterval = setInterval(submit, subInterval);
                 clearInterval(intvl);
                 console.log('%c领取结束!', consolecss)
            // }
         }
     }
     count += 1
+}
+
+function submit()
+{
+    if(host == "coupon.m.jd.com")
+        $('.btn').click();
+    else if(host == "jcode.jd.com")
+        obtainJcodeForM();
+    else if(host == "p.m.jd.com")
+        btnPayOnLine.click();
+  submitCount++;
+  //console.log('提交');
+    if(submitCount == 5)
+        clearInterval(submitInterval);
 }
